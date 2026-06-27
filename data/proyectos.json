@@ -374,12 +374,12 @@
   {
     "id": "copate",
     "nombre": "Copate",
-    "cliente": "COPATE",
-    "estado": "En ejecución",
-    "estadoIcono": "🟢",
+    "cliente": "Kompini",
+    "estado": "Finalizado",
+    "estadoIcono": "✅",
     "responsable": "Luis Hinojosa",
-    "dispositivos": 0,
-    "instalados": 0,
+    "dispositivos": 11,
+    "instalados": 11,
     "manuales": [
       "configuracion-dispositivos",
       "mantenimiento-citisend",
@@ -388,55 +388,50 @@
     "fotografias": 6,
     "planner": "#",
     "galeria": "proyectos/copate/galeria/",
-    "contactos": [
-      {
-        "nombre": "Luis Hinojosa",
-        "rol": "Project Manager",
-        "telefono": "621157471",
-        "empresa": "Citisend",
-        "tipo": "Interno"
-      }
-    ],
-    "software": [
-      "Planner"
-    ],
     "galeriaFotos": [
       {
         "archivo": "copate-envases-vidrio-papel.jpg",
-        "titulo": "Contenedores instalados · 1",
         "categoria": "Instalación",
         "descripcion": "Vista frontal de contenedores con dispositivos instalados."
       },
       {
         "archivo": "copate-envases-vidrio-papel2.jpg",
-        "titulo": "Contenedores instalados · 2",
         "categoria": "Instalación",
         "descripcion": "Vista general de los contenedores en campo."
       },
       {
         "archivo": "copate-campa.jpeg",
-        "titulo": "Campa COPATE",
         "categoria": "Instalación",
         "descripcion": "Vista de campa y contenedores del proyecto."
       },
       {
         "archivo": "copate-campa-2.jpeg",
-        "titulo": "Campa COPATE · 2",
         "categoria": "Instalación",
         "descripcion": "Detalle adicional de la instalación."
       },
       {
         "archivo": "copate-pals.jpeg",
-        "titulo": "Detalle instalación",
         "categoria": "Instalación",
         "descripcion": "Fotografía de referencia recibida."
       },
       {
         "archivo": "copate-pals-2.jpeg",
-        "titulo": "Detalle instalación · 2",
         "categoria": "Instalación",
         "descripcion": "Fotografía de referencia recibida."
       }
+    ],
+    "contactos": [
+      {
+        "nombre": "Luis Hinojosa",
+        "rol": "Project Manager",
+        "empresa": "Citisend",
+        "tipo": "Interno"
+      }
+    ],
+    "software": [
+      "Citiservice",
+      "Planner",
+      "Teams"
     ]
   }
 ]
