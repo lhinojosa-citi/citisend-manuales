@@ -6,28 +6,23 @@
     "estado": "En ejecución",
     "estadoIcono": "🟢",
     "responsable": "Luis Hinojosa",
-    "dispositivos": 3500,
-    "instalados": 2485,
+    "dispositivos": 6112,
+    "instalados": 3574,
     "manuales": [
       "gestion-proyectos",
       "configuracion-dispositivos",
       "mantenimiento-citisend"
     ],
     "fotografias": 0,
-    "planner": "#",
+    "planner": "https://planner.cloud.microsoft/webui/plan/TmDhKlqhUU2Q67LEolyHG5cACIrV/view/board?tid=1f780c66-9492-4dc9-80b3-d0d47e719c83",
     "galeria": "proyectos/granada/galeria/",
+    "galeriaFotos": [],
     "contactos": [
       {
         "nombre": "Luis Hinojosa",
         "rol": "Project Manager",
         "empresa": "Citisend",
         "tipo": "Interno"
-      },
-      {
-        "nombre": "Diego",
-        "rol": "Seguimiento de proyecto",
-        "empresa": "FCC",
-        "tipo": "Cliente"
       },
       {
         "nombre": "Félix",
@@ -38,10 +33,8 @@
     ],
     "software": [
       "SLOC",
-      "Komtainer",
-      "Citiservice",
-      "Planner"
-    ],
-    "galeriaFotos": []
+      "Planner",
+      "Teams"
+    ]
   }
 ]
